@@ -3,7 +3,6 @@ let text = () => {
 };
 text();
 
-let img_container=document.getElementsByClassName('img_container');
 let image=document.getElementById('img_container-elem');
 
 function showPreviousCat() {
